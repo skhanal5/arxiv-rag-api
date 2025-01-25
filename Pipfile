@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 fastapi = "*"
 httpx = "*"
+haystack-ai = "*"
+pydantic = "*"
 
 [dev-packages]
 pre-commit = "*"
